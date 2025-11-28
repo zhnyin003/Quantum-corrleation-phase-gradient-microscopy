@@ -1,2 +1,3 @@
 # Quantum-corrleation-phase-gradient-microscopy
-Labview 2020 code
+
+Code must be run on Labview 2020 or later. Sample data is too large to be uploaded on github, please contact authors to request the data files
